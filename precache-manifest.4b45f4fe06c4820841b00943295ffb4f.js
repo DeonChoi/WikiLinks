@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "13b8f4dc009f79097c4a88d80c029517",
+    "revision": "0b879a363fe7af495a788726c6441e66",
     "url": "/WikiLinks/index.html"
   },
   {
