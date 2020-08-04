@@ -9,11 +9,8 @@ const Nav = () => {
         <nav>
             <h1 className='title'>WikiLinks</h1>
             <ul className='nav-links-bar'>
-                <Link to={'/'} className="nav-links">
+                <Link to={'/home'} className="nav-links">
                     <li>Home</li>
-                </Link>
-                <Link to={'/search'} className="nav-links">
-                    <li>Search</li>
                 </Link>
                 <Link to={'/mywikilinks'} className="nav-links">
                     <li>My WikiLinks</li>
