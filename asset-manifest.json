@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/WikiLinks/static/css/main.4685bde4.chunk.css",
-    "main.js": "/WikiLinks/static/js/main.223f8160.chunk.js",
-    "main.js.map": "/WikiLinks/static/js/main.223f8160.chunk.js.map",
+    "main.js": "/WikiLinks/static/js/main.6a412348.chunk.js",
+    "main.js.map": "/WikiLinks/static/js/main.6a412348.chunk.js.map",
     "runtime-main.js": "/WikiLinks/static/js/runtime-main.b6adc817.js",
     "runtime-main.js.map": "/WikiLinks/static/js/runtime-main.b6adc817.js.map",
-    "static/js/2.ec095723.chunk.js": "/WikiLinks/static/js/2.ec095723.chunk.js",
-    "static/js/2.ec095723.chunk.js.map": "/WikiLinks/static/js/2.ec095723.chunk.js.map",
+    "static/js/2.d335a6f1.chunk.js": "/WikiLinks/static/js/2.d335a6f1.chunk.js",
+    "static/js/2.d335a6f1.chunk.js.map": "/WikiLinks/static/js/2.d335a6f1.chunk.js.map",
     "index.html": "/WikiLinks/index.html",
-    "precache-manifest.3c22369d2eccce91c194e21007dcb328.js": "/WikiLinks/precache-manifest.3c22369d2eccce91c194e21007dcb328.js",
+    "precache-manifest.68dae21e055ad3f0b3649bee7887133d.js": "/WikiLinks/precache-manifest.68dae21e055ad3f0b3649bee7887133d.js",
     "service-worker.js": "/WikiLinks/service-worker.js",
     "static/css/main.4685bde4.chunk.css.map": "/WikiLinks/static/css/main.4685bde4.chunk.css.map",
-    "static/js/2.ec095723.chunk.js.LICENSE.txt": "/WikiLinks/static/js/2.ec095723.chunk.js.LICENSE.txt"
+    "static/js/2.d335a6f1.chunk.js.LICENSE.txt": "/WikiLinks/static/js/2.d335a6f1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b6adc817.js",
-    "static/js/2.ec095723.chunk.js",
+    "static/js/2.d335a6f1.chunk.js",
     "static/css/main.4685bde4.chunk.css",
-    "static/js/main.223f8160.chunk.js"
+    "static/js/main.6a412348.chunk.js"
   ]
 }
