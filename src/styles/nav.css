@@ -1,0 +1,39 @@
+nav {
+
+}
+
+.title {
+    margin: 2rem;
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+    font-size: 2rem;
+}
+
+.nav-links-bar {
+    display: flex;
+    /*justify-content: space-evenly;*/
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+
+.nav-links{
+    text-decoration: none;
+    list-style: none;
+    padding: 0.5rem;
+    width: 33%;
+    text-align: center;
+}
+
+.nav-links:visited {
+    color: black;
+}
+
+.nav-links:hover {
+    background-color: black;
+    color: white;
+}
+
